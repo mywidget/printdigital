@@ -4,8 +4,8 @@
     "name": "browser",
     "isDynamicEntry": true
   },
-  "_jspdf.es.min-cNUNOZlP.js": {
-    "file": "assets/jspdf.es.min-cNUNOZlP.js",
+  "_jspdf.es.min-B92PKjAs.js": {
+    "file": "assets/jspdf.es.min-B92PKjAs.js",
     "name": "jspdf.es.min",
     "isDynamicEntry": true,
     "imports": [
@@ -18,41 +18,41 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-D2NHRd4u.js",
+    "file": "assets/index-CZ5qcc38.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
       "_browser-BXdiCFWD.js",
       "_browser-BXdiCFWD.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js",
-      "_jspdf.es.min-cNUNOZlP.js"
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js",
+      "_jspdf.es.min-B92PKjAs.js"
     ],
     "css": [
-      "assets/index-BCtDLZbL.css"
+      "assets/index-VrqYLKKX.css"
     ]
   },
   "node_modules/canvg/lib/index.es.js": {
-    "file": "assets/index.es-zPx8s-yT.js",
+    "file": "assets/index.es-pkY1VfYz.js",
     "name": "index.es",
     "src": "node_modules/canvg/lib/index.es.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_jspdf.es.min-cNUNOZlP.js"
+      "_jspdf.es.min-B92PKjAs.js"
     ]
   },
   "node_modules/dompurify/dist/purify.es.mjs": {
-    "file": "assets/purify.es-DDpmou9H.js",
+    "file": "assets/purify.es-CAi2OJFm.js",
     "name": "purify.es",
     "src": "node_modules/dompurify/dist/purify.es.mjs",
     "isDynamicEntry": true
